@@ -1,2 +1,2 @@
 # typescript-practice
-Codewars practice
+Typescript practice
